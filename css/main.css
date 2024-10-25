@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+
+h1 {
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 96px;
+    color: white;
+    width: 514px;
+    height: 176px;
+
+}
+
+h2 {
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 60px;
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+}
+
+.texte-art-body {
+    font-size: 22px;
+}
+
+
+.modern-art-top {
+    width: 1275px;
+    height: 800px;
+    background: black;
+    display: flex;
+}
+
+.modern-art-image {
+    width: 540px;
+    height: 800px;
+}
+
+.modern-art-top-div-box {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.modern-art-body-top {
+    width: 1110px;
+    height: 400px;
+    display: flex;
+}
+
+
+.img-gallery-art-top {
+    width: 60%;    
+}
