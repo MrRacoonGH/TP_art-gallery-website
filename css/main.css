@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body  {
+
+}
+
 
 h1 {
     font-family: "Big Shoulders Display", sans-serif;
@@ -43,15 +47,36 @@ p {
     justify-content: center;
 }
 
+.modern-art-body {
 
+}
 
 .modern-art-body-top {
-    width: 1110px;
-    height: 400px;
     display: flex;
+}
+.modern-art-body-top-text {
+    width: 350px;
+    height: 280px;
+}
+
+.modern-art-body-top-text-title {
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 
 .img-gallery-art-top {
     width: 60%;    
 }
+
+
+
+
+/* footer */
+
+footer {
+    background: #151515;
+    width: 1440px;
+    height: 244px;
+}
+
